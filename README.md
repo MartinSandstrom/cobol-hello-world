@@ -2,8 +2,8 @@
 
 ```sh
 
-# compile the program: cobc -x test.cbl to compile
-# run the program ./test 
+# compile the program: cobc -x hello-world.cbl to compile
+# run the program ./hello-world 
 
 ```
 
