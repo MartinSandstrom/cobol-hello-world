@@ -15,4 +15,7 @@ sudo apt-get install open-cobol
 
 # OS X
 brew install gnu-cobol
+
+# Windos
+Feel free to add you solution here.
 ```
